@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "description": "Transacciones de IOTA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manuel Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.21"
+  }
+}
